@@ -1,1 +1,1 @@
-fullerased
+print("test")
